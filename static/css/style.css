@@ -1,0 +1,22 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.card {
+    background-color: #fefefe;
+    border: 1px solid #ddd;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+img {
+    border: 2px solid #ccc;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
+}
+.table-img {
+    width: 100px; /* ou 150px, selon ton besoin */
+    height: auto;
+    object-fit: cover; /* optionnel, pour bien cadrer l'image */
+}
